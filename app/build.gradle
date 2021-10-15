@@ -7,8 +7,9 @@ android {
 
     defaultConfig {
         applicationId "com.example.week3lab"
-        minSdk 24
-        targetSdk 31
+        minSdk 19
+        targetSdk 24
+        maxSdk 30
         versionCode 1
         versionName "1.0"
 

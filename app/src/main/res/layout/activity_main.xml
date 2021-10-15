@@ -8,11 +8,11 @@
 
     <ImageView
         android:id="@+id/imgProfile"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="107dp"
+        android:layout_height="101dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:srcCompat="@tools:sample/avatars" />
+        tools:srcCompat="@android:drawable/btn_star_big_on" />
 
     <TextView
         android:id="@+id/txtName"
